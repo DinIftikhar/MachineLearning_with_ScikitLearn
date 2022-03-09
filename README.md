@@ -1,2 +1,5 @@
-# Machine Learning and Deep Learning projects with Python
-This repository contains my all machine learning and deep learning projects using scikit-learn, tensorflow keras, and pythorch in Python Jupyter notebook.
+# Machine Learning with Scikit Learn
+This repository contains my all machine learning projects using Scikit Learn in Python Jupyter Notebook. It has been further divided into three sub-categories.
+- Regression based projects
+- Classification based projects
+- Clustering based projects
