@@ -1,5 +1,5 @@
 # Machine Learning with Scikit Learn
 This repository contains my all machine learning projects using Scikit Learn in Python Jupyter Notebook. It has been further divided into three sub-categories.
-- Regression based projects
+- [Regression](https://github.com/DinIftikhar/MachineLearning_with_ScikitLearn/blob/main/RegressionProjects) based projects
 - Classification based projects
 - Clustering based projects
