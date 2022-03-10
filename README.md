@@ -3,3 +3,5 @@ This repository contains my all machine learning projects using Scikit Learn in 
 - [Regression](https://github.com/DinIftikhar/MachineLearning_with_ScikitLearn/tree/main/RegressionProjects) based projects
 - [Classification](https://github.com/DinIftikhar/MachineLearning_with_ScikitLearn/tree/main/ClassificationProjects) based projects
 - [Clustering](https://github.com/DinIftikhar/MachineLearning_with_ScikitLearn/tree/main/ClusteringProjects) based projects
+
+Follow the above links to explore each category.
